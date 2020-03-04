@@ -2,4 +2,5 @@ Gemfile
 Gemfile.lock
 tests/
 test/
+even_more_tests
 please_work_this_time
