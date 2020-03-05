@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "cat testing is fun",
+      "name": "cat testing is funny",
       "setup": "",
       "run": "run",
       "input": "cat",
@@ -11,7 +11,7 @@
       "points": 6
     },
     {
-      "name": "dog testing is fun",
+      "name": "dog testing is funny",
       "setup": "",
       "run": "run",
       "input": "dog",
