@@ -1,11 +1,21 @@
 {
   "tests": [
     {
-      "name": "cat test",
+      "name": "cat testing is funnier than dogs after feature flags",
       "setup": "",
       "run": "run",
       "input": "cat",
       "output": "cat",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "dog testing is funnier than cats",
+      "setup": "",
+      "run": "run",
+      "input": "dog",
+      "output": "dog",
       "comparison": "included",
       "timeout": 10,
       "points": 6
