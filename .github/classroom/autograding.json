@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "cat testing is funny than dogs",
+      "name": "cat testing is funnier than dogs after feature flags",
       "setup": "",
       "run": "run",
       "input": "cat",
